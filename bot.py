@@ -312,4 +312,4 @@ async def close(ctx):
 
 
 
-bot.run('NzIyNTM3ODAxOTcwODc2NTI3.Xukhzw.189pdwRPU1iOAyxqXCPMheapRBQ')
+bot.run('TOKEN')
